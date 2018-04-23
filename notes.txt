@@ -1,0 +1,4 @@
+Possible Webpack Bundle ES6 module Config options:
+https://www.reddit.com/r/javascript/comments/48ow1h/im_confused_as_to_the_difference_between_gulp_and/
+https://www.quora.com/Whats-the-difference-between-using-Gulp-and-Webpack-Is-it-possible-to-use-both
+https://www.npmjs.com/package/webpack-stream - streamer for webpack within gulp
